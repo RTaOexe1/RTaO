@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         RTaO Bypass (Blue Popup + Timer)
+// @name         RTaO Bypass
 // @namespace    rtaobypasser
 // @version      1.2.15
-// @description  RTaO Bypass - Old Popup Style with Timer (Blue/White)
+// @description  RTaO Bypass
 // @author       rtao.exe
 
 // ===== Work.ink / Platoboost =====
